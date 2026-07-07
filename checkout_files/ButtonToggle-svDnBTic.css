@@ -1,1 +1,0 @@
-.button-toggle label:not(:last-child):not(.active):after{content:"|";position:absolute;right:-4px;top:6px;color:#d1d1db}
